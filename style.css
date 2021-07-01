@@ -1,0 +1,80 @@
+.image {
+	width: 100%;
+}
+.rideFood {
+	text-align: center;
+	font-style: initial;
+	font-size: 5vh;
+	color: rgba(240, 172, 26, 0.945);
+	background-color: white;
+}
+.menu {
+	font-size: 2vw;
+}
+.bodyText {
+	font-size: 7vh;
+	text-align: center;
+	font-style: oblique;
+	color: rgb(193, 151, 24);
+}
+
+.cardText {
+	font-size: 2vh;
+	text-align: center;
+	font-style: oblique;
+	color: rgb(193, 151, 24);
+}
+.waiting {
+	margin-top: 2rem;
+	width: 100%;
+}
+.absolute {
+	position: absolute;
+}
+.relative {
+	position: relative;
+}
+
+.size {
+	width: 100px;
+}
+.header {
+	bottom: 40rem;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin: auto;
+	width: 50%;
+	padding: 1rem;
+	border: 5px solid white;
+	border-radius: 25px;
+}
+.card {
+	background-color: transparent;
+}
+.img {
+	width: 100%;
+}
+.changedImg {
+	width: 50%;
+}
+
+.hide {
+	display: none;
+}
+
+.user {
+	background-color: lightblue;
+	width: 200px;
+	height: 400px;
+	margin: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.restaurantText {
+	max-height: 200px;
+	overflow: auto;
+}
