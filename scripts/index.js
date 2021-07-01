@@ -85,8 +85,7 @@ function getRestaurants() {
 
 						let p = document.createElement("p");
 
-						var placeholder =
-							"https://www.amityinternational.com/wp-content/uploads/2019/02/product-placeholder.jpg";
+						var placeholder = "./images/product-placeholder.jpg";
 
 						if (!place.name) {
 							return;
